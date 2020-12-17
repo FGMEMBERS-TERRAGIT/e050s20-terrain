@@ -1,0 +1,4 @@
+OBJECT_BASE 3871724.btg
+OBJECT FIMA.btg
+OBJECT_SHARED Models/Airport/windsock.xml 56.610325 -10.374543 1.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 56.610034 -10.375705 2.5 0.00
